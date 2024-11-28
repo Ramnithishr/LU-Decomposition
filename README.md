@@ -23,7 +23,7 @@ A = np.array(eval(input()))
 P,L,U=lu(A)
 print(L)
 print(U)
-*/
+
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
@@ -35,7 +35,7 @@ B = np.array(eval(input()))
 lu,piv = lu_factor(A)
 X = lu_solve((lu,piv),B)
 print(X)
-*/
+
 ```
 
 ## Output:
