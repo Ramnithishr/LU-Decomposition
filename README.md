@@ -42,11 +42,12 @@ print(X)
 
 ## Output:
 find the L and U matrix :
-![Screenshot 2024-11-27 210624](https://github.com/user-attachments/assets/60d99407-01ec-488b-a69e-5eda89c25e8e)
+![Screenshot 2024-12-10 184317](https://github.com/user-attachments/assets/6d57b41e-2ac1-4360-a7d6-5263630bbdd4)
 
 ![lu decomposition]()
+![Screenshot 2024-12-10 184334](https://github.com/user-attachments/assets/f5737dcd-0678-486f-9f26-56859eda76b8)
+
 find the LU Decomposition of a matrix:
-![Screenshot 2024-11-27 211353](https://github.com/user-attachments/assets/2a65baf0-c46d-4762-a6ea-9e31b231c480)
 
 
 ## Result:
