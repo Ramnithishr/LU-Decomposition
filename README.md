@@ -44,13 +44,13 @@ print(X)
 ```
 
 ## Output:
-find the L and U matrix :
-![Screenshot 2024-12-10 184317](https://github.com/user-attachments/assets/6d57b41e-2ac1-4360-a7d6-5263630bbdd4)
 
 ![lu decomposition]()
+
+![Screenshot 2024-12-10 184317](https://github.com/user-attachments/assets/6d57b41e-2ac1-4360-a7d6-5263630bbdd4)
+
 ![Screenshot 2024-12-10 184334](https://github.com/user-attachments/assets/f5737dcd-0678-486f-9f26-56859eda76b8)
 
-find the LU Decomposition of a matrix:
 
 
 
